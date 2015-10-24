@@ -37,7 +37,7 @@ output-format = "json"
 
 # If you use tags, you can set the following if you wish to only pick
 # up changes since your latest tag
-from-latest-tag = false
+from-latest-tag = true
 
 # Custom Sections
 # Default recognized sections: Features, Performance, Bug Fixes
