@@ -1,7 +1,7 @@
 <a name="1.0.2"></a>
 ### 1.0.2 (2015-10-24)
 
-
+This text here is a manual insertion made after the 1.0.2 release. This demonstrates the log prepend action by staying here and not being overwritten.
 
 
 <a name="1.0.1"></a>
