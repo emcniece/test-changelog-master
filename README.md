@@ -13,3 +13,4 @@ This list indicates commit progress:
 
 * Commit #1 to master!
 * Commit #2 to master
+* Commit #3 to master
